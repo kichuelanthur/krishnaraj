@@ -1,0 +1,26 @@
+/* .header{
+  background-color: orange;  
+  position: fixed;
+  width:100%;
+  z-index: 2;
+}
+.card{
+  width: 18rem;
+}
+.link{
+  text-decoration: none;
+}
+ #header{
+  width: 100%;
+ } */
+ .card-img-custom{
+  height: 15em;
+  width: 100%;
+  object-fit:contain;
+}
+.card-custom{
+  height: 27em;
+  margin: .5em;
+  padding: 1em;
+}
+/*  style="width: 18rem; height: 30em; --experience card sizes */
